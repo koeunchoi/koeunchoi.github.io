@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Koeun Choi"
+  avatar           : "Choi.png"
+  bio              : "Postdoc at Rutgers University - Newark"
+  location         : "Newark, NJ"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=UY9qarUAAAAJ&hl=en"
+  email            : "koeunchoi@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "k_cho0i"
+  twitter          : "k_ch0i"
   vine             :
   weibo            :
   xing             :
