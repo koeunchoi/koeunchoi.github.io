@@ -83,7 +83,7 @@ author:
   bio              : "Postdoc at Rutgers University - Newark"
   location         : "Newark, NJ"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=UY9qarUAAAAJ&hl=en"
+  googlescholar    : "http://scholar.google.com/citations?user=UY9qarUAAAAJ&hl=en"
   email            : "koeunchoi@gmail.com"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7906-459X"
+  orcid            : "http://orcid.org/0000-0001-7906-459X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
