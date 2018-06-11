@@ -6,7 +6,7 @@ excerpt: 'This paper is about toddlers word learning from touchscreens.'
 date: 2016-03-28
 venue: 'Child Development'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12508'
-citation: 'Kirkorian, H. L., & Choi, K. (2016). &quot;Toddlers' word learning from contingent and noncontingent video on touch screens.&quot; <i>Child Development, 87</i>, 405-413.'
+citation: 'Kirkorian, H. L., & Choi, K. (2016). &quot;Toddlers` word learning from contingent and noncontingent video on touch screens.&quot; <i>Child Development, 87</i>, 405-413.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
