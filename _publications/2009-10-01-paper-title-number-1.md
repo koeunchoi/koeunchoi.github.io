@@ -2,11 +2,11 @@
 title: "Toddlers' word learning from contingent and noncontingent video on touch screens"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about toddlers' word learning from touchscreens.'
+excerpt: 'This paper is about toddlers word learning from touchscreens.'
 date: 2016-03-28
 venue: 'Child Development'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12508'
-citation: 'Kirkorian, H. L., & Choi, K. (2016). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Kirkorian, H. L., & Choi, K. (2016). Toddlers' word learning from contingent and noncontingent video on touch screens.  <i>Child Development, 87 </i>. 405-413.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
