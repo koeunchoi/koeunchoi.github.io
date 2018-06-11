@@ -1,5 +1,5 @@
 ---
-title: "Touch or Watch to Learn? Toddlers’ Object Retrieval Using Contingent and Noncontingent Video"
+title: "Touch or watch to learn? Toddlers’ object retrieval using contingent and noncontingent video"
 collection: publications
 permalink: /publication/2016-04-06-touch-or-watch
 excerpt: 'This paper is about toddlers’ object retrieval from touchscreens.'
