@@ -2,7 +2,7 @@
 title: "Knowing how to fold ’em: Paper folding across early childhood"
 collection: publications
 permalink: /publication/2017-07-03-how-to-fold
-excerpt: 'This paper is about age-related changes in manual paper folding across early childhood.'
+excerpt: 'This paper is about age-related changes in manual paper-folding across early childhood.'
 date: 2017-07-03
 venue: 'Journal of Motor Learning and Development'
 paperurl: 'https://doi.org/10.1123/jmld.2016-0044'
