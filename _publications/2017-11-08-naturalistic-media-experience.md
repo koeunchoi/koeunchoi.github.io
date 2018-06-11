@@ -1,8 +1,8 @@
 ---
-title: "Associations between toddlers’ naturalistic media exposure and observed learning from screens."
+title: "Associations between toddlers’ naturalistic media exposure and observed learning from screens"
 collection: publications
 permalink: /publication/2017-11-08-naturalistic-media-experience
-excerpt: 'This paper is about toddlers’ explosure to touchscreens at home and learning task performance in the lab '
+excerpt: 'This paper is about toddlers’ explosure to touchscreens at home and learning task performance in the lab.'
 date: 2017-11-08
 venue: 'Infancy'
 paperurl: 'https://doi.org/10.1111/infa.12171'
