@@ -2,7 +2,7 @@
 title: "Toddlers' word learning from contingent and noncontingent video on touch screens"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'a'
+excerpt: 'This paper is about word learning from touchscreens.'
 date: 2016-03-28
 venue: 'Child Development'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cdev.12508'
