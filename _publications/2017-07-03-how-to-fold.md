@@ -1,5 +1,5 @@
 ---
-title: "Associations between toddlers’ naturalistic media exposure and observed learning from screens"
+title: "Knowing how to fold ’em: Paper folding across early childhood"
 collection: publications
 permalink: /publication/2017-07-03-how-to-fold
 excerpt: 'This paper is about the description of age-related changes in manual paper-folding across early childhood."
