@@ -1,7 +1,7 @@
 ---
 title: "Toddlers' word learning from contingent and noncontingent video on touch screens"
 collection: publications
-permalink: /publications/2016-03-28-word-learning-from-touchscreens
+permalink: /publication/2016-03-28-word-learning-from-touchscreens
 excerpt: 'This paper is about toddlers' word learning from interactive toucscreens and non-itneractive screens.'
 date: 2016-03-28
 venue: 'Child Development'
