@@ -1,7 +1,7 @@
 ---
 title: "Understanding the transfer deficit: Contextual mismatch, proactive interference, and working memory affect toddlers’ video-based transfer"
 collection: publications
-permalink: /publication/2017-04-17-understanding-transfer-deficit.md
+permalink: /publication/2017-04-17-understanding-transfer-deficit
 excerpt: 'This paper is about underlying mechanisms of toddlers’ transfer of learning from video.'
 date: 2017-04-17
 venue: 'Child Development'
