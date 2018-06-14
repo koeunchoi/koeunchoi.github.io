@@ -2,7 +2,7 @@
 title: "Preschoolers are more likely to direct questions to adults than to other children (or selves) during spontaneous conversational acts"
 collection: publications
 permalink: /publication/2018-05-16-preschoolers-questions
-excerpt: 'This paper is about preschoolers spontaneous questions asking behaviors in preschools.'
+excerpt: 'This paper is about preschoolers’ spontaneous questions asking in a naturalistic padagogical setting'
 date: 2018-05-16
 venue: 'Cognitive Science Society'
 paperurl: 'https://doi.org/10.17605/OSF.IO/TJ42H'
