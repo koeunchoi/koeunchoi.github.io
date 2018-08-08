@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Koeun Choi / Lab"
+title                    : "Koeun Choi"
 title_separator          : "-"
 name                     : &name "Koeun Choi"
 description              : &description "Assistant Prof. @ Virginia Tech"
