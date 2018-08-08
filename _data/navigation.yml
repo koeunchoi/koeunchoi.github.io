@@ -5,16 +5,15 @@ main:
 
   - title: "Talks"
     url: /talks/    
-      
+  
+  - title: "Teaching"
+    url: /teaching/  
+  
   #- title: "People"
   #  url: /people/
   
-  
   #- title: "CV"
-  #  url: /cv/
-    
-  #- title: "Teaching"
-  #  url: /teaching/     
+  #  url: /cv/ 
   
   #- title: "Portfolio"
   #  url: /portfolio/
