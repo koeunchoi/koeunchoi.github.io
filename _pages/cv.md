@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My most recent CV](https://github.com/koeunchoi/koeunchoi.github.io/blob/master/files/ChoiCV.pdf)
+[Click to view my most recent CV [PDF]](https://koeunchoi.github.io/files/ChoiCV.pdf)
