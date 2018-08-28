@@ -1,5 +1,5 @@
 ---
-title: "R Markdown Intro"
+title: "Introduction ot R Markdown"
 collection: teaching
 type: "Presentation"
 permalink: /teaching/2017-fall-teaching-1
@@ -8,7 +8,7 @@ date: 2017-09-20
 location: "Newark, USA"
 ---
 
-R Markdown Intro
+Introduction to R, R Studio, R Markdown, Shiny, and some R packages (papaja, xaringan)
 
 [Click to view the instruction [PDF]](https://koeunchoi.github.io/files/choi2017IntroRmd.pdf)
 
