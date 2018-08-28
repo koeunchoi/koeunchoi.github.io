@@ -13,6 +13,6 @@ R Markdown Intro
 ======
 
 
-[Click to view the instruction [PDF](https://koeunchoi.github.io/files/choi2017IntroRmd.pdf)
+[Click to view the instruction [PDF]](https://koeunchoi.github.io/files/choi2017IntroRmd.pdf)
 
 
