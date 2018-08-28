@@ -3,7 +3,7 @@ title: "R Markdown Intro"
 collection: teaching
 type: "Presentation"
 permalink: /teaching/2017-fall-teaching-1
-venue: ""
+venue: 
 date: 2017-09-20
 location: "Newark, USA"
 ---
