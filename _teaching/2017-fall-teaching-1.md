@@ -1,5 +1,5 @@
 ---
-title: "Introduction ot R Markdown"
+title: "Introduction to R Markdown"
 collection: teaching
 type: "Presentation"
 permalink: /teaching/2017-fall-teaching-1
