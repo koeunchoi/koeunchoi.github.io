@@ -8,11 +8,11 @@ date: 2017-09-20
 location: "City, Country"
 ---
 
-Heading 1
+
+R Markdown Intro
 ======
 
-Heading 2
-======
 
-Heading 3
-======
+[Click to view the instruction [PDF]](https://koeunchoi.github.io/files/choi2017IntroRmd.pdf)
+
+
