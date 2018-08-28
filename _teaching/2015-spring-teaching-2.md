@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "HD 1004: Human Development 1"
 collection: teaching
-type: "Workshop"
+type: "Virtual Campus Lecture"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Virginia Tech, Human Development and Family Science"
+date: 2018-08-20
+location: "Blacksburg, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Basic concepts related to normal human development. Emphasis on developmental theories and principles of physical, social, and emotional growth, development, and behavior of children, individually and within families and cultures, from conception through adolesence.
 
-Heading 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
