@@ -8,7 +8,7 @@ date: 2017-09-20
 location: "Newark, USA"
 ---
 
-Introduction to R, R Studio, R Markdown, Shiny, and some R packages (papaja, xaringan)
+Description: Introduction to R, R Studio, R Markdown, Shiny, and some R packages (papaja, xaringan)
 
 [Click to view the instruction [PDF]](https://koeunchoi.github.io/files/choi2017IntroRmd.pdf)
 
