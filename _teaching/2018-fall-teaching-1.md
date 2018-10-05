@@ -8,5 +8,5 @@ date: 2018-08-20
 location: "Blacksburg, USA"
 ---
 
-Basic concepts related to normal human development. Emphasis on developmental theories and principles of physical, social, and emotional growth, development, and behavior of children, individually and within families and cultures, from conception through adolesence.
+Course Description: Basic concepts related to normal human development. Emphasis on developmental theories and principles of physical, social, and emotional growth, development, and behavior of children, individually and within families and cultures, from conception through adolesence.
 
