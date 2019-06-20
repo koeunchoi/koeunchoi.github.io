@@ -15,5 +15,5 @@ My work has focused on four aspects including (1) examining the impact of media 
 * [CoDeS Lab](http://kchoi.org/)
 * [CV](https://koeunchoi.github.io/files/ChoiCV.pdf)
 * [Publications](http://kchoi.org/publications/)
-* [Talk](https://koeunchoi.github.io/talk/)
+* [Talks](https://koeunchoi.github.io/talks/)
 * [Teaching](https://koeunchoi.github.io/teaching/)
