@@ -14,7 +14,5 @@ My work has focused on four aspects including (1) examining the impact of media 
 
 
 * [CV](https://koeunchoi.github.io/files/ChoiCV.pdf)
-
 * [Publications](http://kchoi.org/publications/)
-
 * [Official Page](https://liberalarts.vt.edu/departments-and-schools/department-of-human-development-and-family-science/faculty/koeun-choi.html)
