@@ -1,7 +1,7 @@
 ---
 title: "HD 5514: Research Methods (CRN:85161)"
 collection: teaching
-type: "Lecture - Graduate"
+type: "Lecture (Graduate)"
 permalink: /teaching/2019-08-teaching-3
 venue: "Virginia Tech, Human Development and Family Science"
 date: 2019-08-20
