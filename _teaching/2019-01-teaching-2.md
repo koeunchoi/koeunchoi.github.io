@@ -1,7 +1,7 @@
 ---
 title: "HD 4994: Undergraduate Research: Children and Technology"
 collection: teaching
-type: "Research Lab"
+type: "Research Lab (Undergraduate)"
 permalink: /teaching/2019-01-teaching-2
 venue: "Virginia Tech, Human Development and Family Science"
 date: 2019-01-20
