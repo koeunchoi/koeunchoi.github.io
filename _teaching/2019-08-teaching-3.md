@@ -26,22 +26,22 @@ W5 & W6: Probability
 
 W7: Inference for Proportion 
 
-W8 : Inference for Means
+W8: Inference for Means
 
-W9 : Midterm Exam
+W9: Midterm Exam
 
-W10 : Use of Inference
+W10: Use of Inference
 
-W11 : Analysis of Two-Way Tables
+W11: Analysis of Two-Way Tables
 
-W12 : Inference for Regression
+W12: Inference for Regression
 
-W13 : Multiple Regression
+W13: Multiple Regression
 
-W14 : Thanksgiving
+W14: Thanksgiving
 
-W15 : One-Way Analysis of Variance
+W15: One-Way Analysis of Variance
 
-W16 : Two-Way Analysis of Variance
+W16: Two-Way Analysis of Variance
 
 W17: Final Exam
