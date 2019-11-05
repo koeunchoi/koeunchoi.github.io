@@ -1,10 +1,10 @@
 ---
 title: "HD 1004: Human Development 1"
 collection: teaching
-type: "Virtual Campus Lecture"
+type: "Lecture"
 permalink: /teaching/2019-08-teaching-1
 venue: "Virginia Tech, Human Development and Family Science"
-date: 2018-08-20
+date: 2019-08-20
 location: "Blacksburg, USA"
 ---
 
