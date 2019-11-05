@@ -1,5 +1,5 @@
 ---
-title: "HD 4994: Undergraduate Research: Children and Technology"
+title: "HD 4994: Undergraduate Research: Children and Technology (CRN: 19013)"
 collection: teaching
 type: "Research Lab (Undergraduate)"
 permalink: /teaching/2019-01-teaching-2
