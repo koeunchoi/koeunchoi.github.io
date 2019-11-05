@@ -1,5 +1,5 @@
 ---
-title: "HD 1004: Human Development 1"
+title: "HD 1004: Human Development 1 (CRN: 84910)"
 collection: teaching
 type: "Virtual Campus Lecture (Undergraduate)"
 permalink: /teaching/2018-08-teaching-1
