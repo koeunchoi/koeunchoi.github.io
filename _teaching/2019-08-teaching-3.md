@@ -12,8 +12,6 @@ Course Description: Introductory course in research methodology for the social s
 
 ## Schedule
 
-Lectures will be delivered using presentation slides.
-
 W1: Course Overivew & Exploring Statistics
  
 W2: Producing Data
@@ -32,15 +30,15 @@ W9: Midterm Exam
 
 W10: Use of Inference
 
-W11: Analysis of Two-Way Tables
+W11: Analysis of Two-Way Tables [R]()[HW7]()
 
-W12: Inference for Regression
+W12: Inference for Regression [R]()[HW8]()
 
-W13: Multiple Regression
+W13: Multiple Regression [R]()[HW9]()
 
 W14: Thanksgiving
 
-W15: One-Way Analysis of Variance
+W15: One-Way Analysis of Variance [R]()[HW10]()
 
 W16: Two-Way Analysis of Variance
 
