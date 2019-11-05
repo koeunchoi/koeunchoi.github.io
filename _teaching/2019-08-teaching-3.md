@@ -1,7 +1,7 @@
 ---
 title: "HD 5514: Research Methods"
 collection: teaching
-type: "Lecture"
+type: "Lecture - Graduate"
 permalink: /teaching/2019-08-teaching-3
 venue: "Virginia Tech, Human Development and Family Science"
 date: 2019-08-20
