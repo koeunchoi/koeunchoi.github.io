@@ -1,5 +1,5 @@
 ---
-title: "HD 5514: Research Methods (CRN:85161)"
+title: "HD 5514: Research Methods (CRN: 85161)"
 collection: teaching
 type: "Lecture (Graduate)"
 permalink: /teaching/2019-08-teaching-3
