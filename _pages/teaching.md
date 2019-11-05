@@ -3,6 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 author_profile: true
 redirect_from: 
+  - /about
   - /about.html
 ---
 
