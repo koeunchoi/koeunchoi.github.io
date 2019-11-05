@@ -1,7 +1,7 @@
 ---
 title: "HD 1004: Human Development 1"
 collection: teaching
-type: "Lecture"
+type: "Lecture - Undergraduate"
 permalink: /teaching/2019-08-teaching-1
 venue: "Virginia Tech, Human Development and Family Science"
 date: 2019-08-20
