@@ -2,7 +2,7 @@
 title: "Introduction to R Markdown"
 collection: teaching
 type: "Presentation"
-permalink: /teaching/2017-fall-teaching-1
+permalink: /teaching/2017-08-teaching-1
 venue: 
 date: 2017-09-20
 location: "Newark, USA"
