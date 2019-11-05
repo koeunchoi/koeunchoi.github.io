@@ -1,5 +1,5 @@
 ---
-title: "HD 1004: Human Development 1"
+title: "HD 1004: Human Development 1 (CRN: 15080)"
 collection: teaching
 type: "Lecture (Undergraduate)"
 permalink: /teaching/2019-08-teaching-1
