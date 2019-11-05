@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
+title: "Teaching"
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /about/
   - /about.html
 ---
-
-{% include base_path %}
 
 2019 Fall
 
