@@ -2,7 +2,7 @@
 title: "HD 4994: Undergraduate Research: Children & Technology (CRN: 91019; 91544)"
 collection: teaching
 type: "Research Lab (Undergraduate)"
-permalink: /teaching/2019-08-teaching-1
+permalink: /teaching/2019-08-teaching-2
 venue: "Virginia Tech, Human Development and Family Science"
 date: 2019-08-20
 location: "Blacksburg, USA"
