@@ -13,18 +13,18 @@ redirect_from:
 
 HD 5514: Research Methods (CRN: 85161) [CourseInfo](https://koeunchoi.github.io/teaching/2019-08-teaching-3)
 
-HD 4994: Undergraduate Research: Children & Technology (CRN: 91019; 91544)
+HD 4994: Undergraduate Research: Children & Technology (CRN: 91019; 91544) [CourseInfo](https://koeunchoi.github.io/teaching/2019-08-teaching-2)
 
-HD 1004: Human Development 1 (CRN: 15080)
+HD 1004: Human Development 1 (CRN: 15080) [CourseInfo](https://koeunchoi.github.io/teaching/2019-08-teaching-1)
 
 
 2019 Spring
 
-HD 4994: Undergraduate Research: Children and Technology (CRN: 19013)
+HD 4994: Undergraduate Research: Children and Technology (CRN: 19013) [CourseInfo](https://koeunchoi.github.io/teaching/2019-01-teaching-2)
 
-HD 1004: Human Development 1 (CRN: 19013)
+HD 1004: Human Development 1 (CRN: 19013) [CourseInfo](https://koeunchoi.github.io/teaching/2019-01-teaching-1)
 
 
-2019 Fall
+2018 Fall
 
-HD 1004: Human Development 1 (CRN: 84910)
+HD 1004: Human Development 1 (CRN: 84910) [CourseInfo](https://koeunchoi.github.io/teaching/2018-08-teaching-1)
