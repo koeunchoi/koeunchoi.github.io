@@ -12,7 +12,7 @@ redirect_from:
 
 * [HD 5514](https://koeunchoi.github.io/teaching/2019-08-teaching-3): Research Methods (CRN: 85161)
 
-* [HD 4994](https://koeunchoi.github.io/teaching/2019-08-teaching-2): Undergraduate Research: Children & Technology (CRN: 91019; 91544) [Course]
+* [HD 4994](https://koeunchoi.github.io/teaching/2019-08-teaching-2): Undergraduate Research: Children & Technology (CRN: 91019; 91544)
 
 * [HD 1004](https://koeunchoi.github.io/teaching/2019-08-teaching-1): Human Development 1 (CRN: 15080)
 
