@@ -9,3 +9,5 @@ location: "Blacksburg, USA"
 ---
 
 Course Description: Introductory course in research methodology for the social sciences: formulation of a research problem, design, sampling, data collection, measurement, data analysis, interpretation, and writing the research report.
+
+## Schedule
