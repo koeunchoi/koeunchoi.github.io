@@ -30,15 +30,15 @@ W9: Midterm Exam
 
 W10: Use of Inference
 
-W11: Analysis of Two-Way Tables [R]()[HW7]()
+W11: Analysis of Two-Way Tables [R](x)[HW7](x)
 
-W12: Inference for Regression [R]()[HW8]()
+W12: Inference for Regression [R](x)[HW8](x)
 
-W13: Multiple Regression [R]()[HW9]()
+W13: Multiple Regression [R](x)[HW9](x)
 
 W14: Thanksgiving
 
-W15: One-Way Analysis of Variance [R]()[HW10]()
+W15: One-Way Analysis of Variance [R](x)[HW10](x)
 
 W16: Two-Way Analysis of Variance
 
