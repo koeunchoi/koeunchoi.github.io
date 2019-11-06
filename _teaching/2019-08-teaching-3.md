@@ -30,7 +30,7 @@ W9: Midterm Exam
 
 W10: Use of Inference
 
-W11: Analysis of Two-Way Tables R HW7
+W11: Analysis of Two-Way Tables [R & HW7](https://koeunchoi.github.io/201908_hd5514/w11/w11.html) 
 
 W12: Inference for Regression R HW8
 
